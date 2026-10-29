@@ -1,0 +1,52 @@
+# descriptive: find it and understand it
+id: sage-leaf-and-russet-bud-vine
+title: Sage vine with russet and grey buds
+description: One vertical repeat of the narrow bud band from the russet floral border. On an opaque peach ground a sage-green stem with pale leaves winds up the strip, carrying at every turn a three-petalled bud whose petals are dark red and grey-blue, the buds pointing alternately left and right, between a dark rule and a sage-green rule on each side. The top and bottom edges join seamlessly when stacked. Not transparent.
+type: border
+categories:
+  - floral
+  - botanical
+subjects:
+  - bud
+  - leaf
+  - vine
+  - stem
+  - rule
+colors:
+  - beige
+  - green
+  - brown
+  - gray
+facing: none
+composition: repeat-tile
+
+# structural: how it is organised and related
+group: tall-floral-sheet
+render:
+  image: {}
+  tile:
+    axis: y
+  frame:
+    corner: corner
+    slice: 26.04
+components:
+  corner:
+    master: corner.png
+    description: Mitred top-left corner in the same palette, a bud on the vine turning the angle inside the rules, its right and bottom edges matching the tile's ends.
+related:
+  - { asset: supplied-sheets/russet-floral-vine-with-bud-borders, role: variant }
+  - { asset: supplied-sheets/russet-opposed-flowers-and-sage-leaves, role: companion }
+usage_notes:
+  - Repeats along its height; the build's rotated ladder gives the horizontal use.
+  - The side band of russet-floral-vine-with-bud-borders on its own; it pairs with russet-opposed-flowers-and-sage-leaves as an outer band.
+  - The frame atlas composes one repeat with the corner component; use it with border-image and round fitting.
+display_width: [ 25, 50 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The peach ground is opaque, so the piece cannot sit on another colour without recolouring.
+master: master.png
+provenance: null
+license: null

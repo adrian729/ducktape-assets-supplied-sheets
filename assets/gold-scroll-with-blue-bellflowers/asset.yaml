@@ -1,0 +1,41 @@
+# descriptive: find it and understand it
+id: gold-scroll-with-blue-bellflowers
+title: Gold acanthus scroll with blue bellflowers
+description: A horizontal flourish drawn in flat gold with black outlines on an opaque white ground. A long S-curved acanthus stem with curling leaf ends at both sides throws off five blue and white bellflowers on short stalks, two hanging below the stem and three standing above it. A thin black rule runs along the top edge. Not transparent.
+type: ornament
+categories:
+  - botanical
+  - floral
+  - scrollwork
+subjects:
+  - acanthus
+  - scroll
+  - bellflower
+  - flower
+  - leaf
+  - rule
+colors:
+  - gold
+  - blue
+  - black
+  - white
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: drawn-vector-sheet
+render:
+  image: {}
+usage_notes:
+  - Complete flourish with its curled ends; it does not repeat.
+  - The rule along the top edge is part of the drawing; crop the top row if it is not wanted.
+display_width: [ 200, 516 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Opaque white ground, so the piece cannot sit on another colour without recolouring.
+master: master.png
+provenance: null
+license: null

@@ -1,0 +1,54 @@
+# descriptive: find it and understand it
+id: russet-opposed-flowers-and-sage-leaves
+title: Russet floral vine, centre band
+description: One vertical repeat of the centre band of the russet floral border on its own. On an opaque russet ground a sage-green vine carries two large flowers of cream and tan petals facing opposite ways, white daisies on thin stems, pink tulip-shaped flowers and grey-green serrated leaves with white veins, bounded on each side by a thin sage-green rule and a dark rule. The top and bottom edges join seamlessly when stacked. Not transparent.
+type: border
+categories:
+  - floral
+  - botanical
+  - scrollwork
+subjects:
+  - flower
+  - bud
+  - leaf
+  - vine
+  - rule
+colors:
+  - brown
+  - cream
+  - tan
+  - green
+  - pink
+facing: none
+composition: repeat-tile
+
+# structural: how it is organised and related
+group: tall-floral-sheet
+render:
+  image: {}
+  tile:
+    axis: y
+  frame:
+    corner: corner
+    slice: 18.71
+components:
+  corner:
+    master: corner.png
+    description: Mitred top-left corner in the same palette, a large flower and the vine turning the angle inside the rules, its right and bottom edges matching the tile's ends.
+related:
+  - { asset: supplied-sheets/russet-floral-vine-with-bud-borders, role: variant }
+  - { asset: supplied-sheets/sage-leaf-and-russet-bud-vine, role: companion }
+usage_notes:
+  - Repeats along its height; the build's rotated ladder gives the horizontal use.
+  - The same band flanked by its bud side bands is russet-floral-vine-with-bud-borders; sage-leaf-and-russet-bud-vine is that side band alone and pairs with this one.
+  - The frame atlas composes one repeat with the corner component; use it with border-image and round fitting.
+display_width: [ 110, 221 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The russet ground is opaque, so the piece cannot sit on another colour without recolouring.
+master: master.png
+provenance: null
+license: null

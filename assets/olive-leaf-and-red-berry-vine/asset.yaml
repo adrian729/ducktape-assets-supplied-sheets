@@ -1,0 +1,40 @@
+# descriptive: find it and understand it
+id: olive-leaf-and-red-berry-vine
+title: Olive leaf and red berry vine
+description: One horizontal repeat of a vine drawn in flat colour with black outlines on an opaque white ground. A thin black stem undulates along the strip carrying olive-green leaves with darker shading, a large leaf curling up at the left and smaller ones below, and a single red berry hanging on a forked stalk at the right. A thin black rule runs along the top edge. The left and right edges join seamlessly. Not transparent.
+type: border
+categories:
+  - botanical
+subjects:
+  - vine
+  - leaf
+  - berry
+  - stem
+  - rule
+colors:
+  - green
+  - red
+  - black
+  - white
+facing: none
+composition: repeat-tile
+
+# structural: how it is organised and related
+group: drawn-vector-sheet
+render:
+  image: {}
+  tile:
+    axis: x
+usage_notes:
+  - Repeats along its width; the build's rotated ladder gives the vertical use.
+  - The rule along the top edge is part of the drawing and continues across the join.
+display_width: [ 70, 140 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Opaque white ground, so the piece cannot sit on another colour without recolouring.
+master: master.png
+provenance: null
+license: null

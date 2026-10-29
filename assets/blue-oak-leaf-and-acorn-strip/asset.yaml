@@ -1,0 +1,33 @@
+# descriptive: find it and understand it
+id: blue-oak-leaf-and-acorn-strip
+title: Blue oak leaf and acorn strip
+description: A narrow vertical strip of four clusters of lobed oak-like leaves with cross-hatched acorns, in flat mid blue on an opaque pale blue ground. The two upper clusters sweep one way and the two lower ones are the same pair turned 180 degrees, so the strip reads the same from either end; leaf tips and acorns reach the strip's edges. The ends do not join as a repeat. Not transparent.
+type: divider
+categories:
+  - botanical
+subjects:
+  - oak
+  - leaf
+  - acorn
+colors:
+  - blue
+  - light-blue
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: blue-sheet
+render:
+  image: {}
+usage_notes:
+  - Complete vertical strip; its ends are not a seamless join, so use it whole rather than stacked.
+display_width: [ 20, 41 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The pale blue ground is opaque, so the piece cannot sit on another colour without recolouring.
+master: master.png
+provenance: null
+license: null

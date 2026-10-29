@@ -1,0 +1,51 @@
+# descriptive: find it and understand it
+id: painted-opposed-serrated-flower-vine
+title: Painted vine with serrated flowers on ochre
+description: One horizontal repeat of a painted border on an opaque ochre ground between thin red rules. An olive stem with spiky teal and olive leaves carries two large flowers, each a red bud wrapped in cream serrated petals, one leaning left and one right, with small cream and red buds and teal leaf sprays between them. The left and right edges join seamlessly. Flat colour with fine brown contours; not transparent.
+type: border
+categories:
+  - floral
+  - botanical
+  - scrollwork
+subjects:
+  - flower
+  - bud
+  - leaf
+  - vine
+  - stem
+  - rule
+colors:
+  - gold
+  - red
+  - cream
+  - green
+  - blue
+facing: none
+composition: repeat-tile
+
+# structural: how it is organised and related
+group: painted-sheet
+render:
+  image: {}
+  tile:
+    axis: x
+  frame:
+    corner: corner
+    slice: 22
+components:
+  corner:
+    master: corner.png
+    description: Mitred top-left corner in the same palette, a flower and bud spray turning the angle inside the red rules, its right and bottom edges matching the tile's ends.
+usage_notes:
+  - Repeats along its width; the build's rotated ladder gives the vertical use.
+  - The frame atlas composes one repeat with the corner component; use it with border-image and round fitting.
+display_width: [ 190, 387 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The ochre ground is opaque, so the piece cannot sit on another colour without recolouring.
+master: master.png
+provenance: null
+license: null

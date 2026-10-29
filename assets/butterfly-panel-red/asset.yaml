@@ -1,0 +1,47 @@
+# descriptive: find it and understand it
+id: butterfly-panel-red
+title: Gold panel of butterflies with crimson finials
+description: A tall narrow panel on a mottled gold ground inside a dark brown ruled border, holding a column of about twelve painted butterflies and moths in white, cream, brown, orange and speckled grey, with small blue flowers and sprigs of red berries between them. At each end a crimson acanthus finial with a small blue flower cap grows out of the border. The sheet outside the panel is transparent.
+type: divider
+categories:
+  - animals
+  - floral
+  - botanical
+subjects:
+  - butterfly
+  - flower
+  - berry
+  - sprig
+  - acanthus
+  - finial
+colors:
+  - gold
+  - brown
+  - red
+  - white
+  - blue
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: five-painted-panels
+render:
+  image: {}
+related:
+  - { asset: supplied-sheets/floral-bird-panel-blue, role: companion }
+  - { asset: supplied-sheets/floral-bird-panel-left, role: companion }
+  - { asset: supplied-sheets/floral-bird-panel-right, role: companion }
+  - { asset: supplied-sheets/spiral-ribbon-column, role: companion }
+usage_notes:
+  - Complete vertical panel with its finials; keep it whole and upright, it does not repeat.
+  - One of five panels of the same height from one sheet; they stand side by side as page margins.
+display_width: [ 40, 80 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The panel's interior sits at about 95 percent alpha rather than fully opaque, so a dark ground shows faintly through it.
+master: master.png
+provenance: null
+license: null

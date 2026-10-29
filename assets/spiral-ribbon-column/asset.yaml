@@ -1,0 +1,46 @@
+# descriptive: find it and understand it
+id: spiral-ribbon-column
+title: Spiral ribbon column
+description: A tall slender column on a mottled gold ground wrapped from top to bottom in two spiralling ribbons, one plain blue and one red striped with white, with tiny green flowering sprigs painted in the gold spaces between the turns. At the top a plume of green leaves, white curling acanthus and a red-brown flower spike rises from the last turn; the bottom ends on the lowest turn of ribbon. The sheet around the column is transparent.
+type: divider
+categories:
+  - ribbons
+  - floral
+  - botanical
+subjects:
+  - ribbon
+  - column
+  - sprig
+  - flower
+  - leaf
+colors:
+  - gold
+  - blue
+  - red
+  - white
+  - green
+facing: up
+composition: single-ornament
+
+# structural: how it is organised and related
+group: five-painted-panels
+render:
+  image: {}
+related:
+  - { asset: supplied-sheets/butterfly-panel-red, role: companion }
+  - { asset: supplied-sheets/floral-bird-panel-blue, role: companion }
+  - { asset: supplied-sheets/floral-bird-panel-left, role: companion }
+  - { asset: supplied-sheets/floral-bird-panel-right, role: companion }
+usage_notes:
+  - Complete vertical piece with its plume at the top; keep it upright, it does not repeat.
+  - One of five panels of the same height from one sheet; they stand side by side as page margins.
+display_width: [ 32, 63 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The column's interior sits at about 95 percent alpha rather than fully opaque, so a dark ground shows faintly through it.
+master: master.png
+provenance: null
+license: null

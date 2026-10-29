@@ -1,0 +1,47 @@
+# descriptive: find it and understand it
+id: blue-diamond-leaf-stencil-band
+title: Blue stencil band with three-leaf sprigs
+description: One horizontal repeat of a stencilled band in bright royal blue on the untouched white graph-paper sheet. A wavy stem throws off two curling S-scrolls, each carrying a sprig of three leaves with a pointed central one, the sprigs pointing alternately up and down; a straight stencil-cut rule with bridge gaps runs along the top and bottom edges. The left and right edges join seamlessly. The ground is opaque, with the sheet's grey grid visible.
+type: border
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - leaf
+  - sprig
+  - scroll
+  - stem
+  - rule
+colors:
+  - blue
+  - white
+  - gray
+facing: none
+composition: repeat-tile
+
+# structural: how it is organised and related
+group: stencil-sheet
+render:
+  image: {}
+  tile:
+    axis: x
+  frame:
+    corner: corner
+    slice: 24.88
+components:
+  corner:
+    master: corner.png
+    description: Mitred top-left corner in the same stencil blue on the same graph paper, a leaf sprig on a curl turning the angle inside the rules, its right and bottom edges matching the tile's ends.
+usage_notes:
+  - The graph-paper background is intentional; the paper grid and the ornament repeat have different periods, so the grid steps slightly at each join.
+  - The frame atlas composes one repeat with the corner component; use it with border-image and round fitting.
+display_width: [ 50, 105 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Opaque white ground with the source sheet's grey grid lines kept.
+master: master.png
+provenance: null
+license: null

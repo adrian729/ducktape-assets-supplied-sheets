@@ -1,0 +1,51 @@
+# descriptive: find it and understand it
+id: painted-rosette-and-fan-vine
+title: Painted vine with tulip, rosette and carnation on ochre
+description: One horizontal repeat of a painted border on an opaque ochre ground between thin red rules. Along an undulating olive vine with narrow leaves stand, from the left, a red tulip-shaped bud, a round flower of cream petals around a red and teal centre, a red fan-shaped carnation with a teal calyx, and a star rosette of teal and red rays around a cream centre. The left and right edges join seamlessly. Flat colour with fine brown contours; not transparent.
+type: border
+categories:
+  - floral
+  - botanical
+  - scrollwork
+subjects:
+  - flower
+  - bud
+  - rosette
+  - vine
+  - leaf
+  - rule
+colors:
+  - gold
+  - red
+  - cream
+  - green
+  - blue
+facing: none
+composition: repeat-tile
+
+# structural: how it is organised and related
+group: painted-sheet
+render:
+  image: {}
+  tile:
+    axis: x
+  frame:
+    corner: corner
+    slice: 20.46
+components:
+  corner:
+    master: corner.png
+    description: Mitred top-left corner in the same palette, a star rosette on the vine turning the angle inside the red rules, its right and bottom edges matching the tile's ends.
+usage_notes:
+  - Repeats along its width; the build's rotated ladder gives the vertical use.
+  - The frame atlas composes one repeat with the corner component; use it with border-image and round fitting.
+display_width: [ 200, 407 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The ochre ground is opaque, so the piece cannot sit on another colour without recolouring.
+master: master.png
+provenance: null
+license: null

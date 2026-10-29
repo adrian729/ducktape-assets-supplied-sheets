@@ -1,0 +1,45 @@
+# descriptive: find it and understand it
+id: painted-three-band-floral-panel
+title: Painted three-band panel with carnations
+description: A broad horizontal painted panel of three stacked bands separated by thin gold rules. The narrow top and bottom bands, on an opaque dark red ground, carry interlacing tan and teal straps with small red and cream flowers; the wider middle band, on a yellow ground, carries a tan strapwork vine with olive leaves, red fan-shaped carnations and a tan palmette at the centre. The ends are cut and do not repeat. Flat colour with fine brown contours; not transparent.
+type: divider
+categories:
+  - floral
+  - botanical
+  - scrollwork
+subjects:
+  - flower
+  - leaf
+  - vine
+  - strapwork
+  - palmette
+  - rule
+colors:
+  - red
+  - yellow
+  - tan
+  - green
+  - blue
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: painted-sheet
+render:
+  image: {}
+related:
+  - { asset: supplied-sheets/painted-sprawling-floral-panel, role: companion }
+  - { asset: supplied-sheets/painted-symmetric-leaf-and-flower-panel, role: companion }
+usage_notes:
+  - Complete panel with all three bands; the ends are not a seamless join, so use it whole.
+  - One of three panels of the same width cut from one sheet; they stack as bands of one wide border.
+display_width: [ 360, 722 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The grounds are opaque, so the piece cannot sit on another colour without recolouring.
+master: master.png
+provenance: null
+license: null

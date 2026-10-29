@@ -1,0 +1,54 @@
+# descriptive: find it and understand it
+id: russet-floral-vine-with-bud-borders
+title: Russet floral vine with bud side bands
+description: One vertical repeat of a wide painted border. The centre band, on an opaque russet ground, carries a sage-green vine with large cream and tan peony-like flowers, white daisies, pink tulip-shaped flowers and grey-green serrated leaves; on each side a narrow peach band holds a sage vine of small dark red and grey-blue buds, set off by thin dark and sage-green rules. The top and bottom edges join seamlessly when stacked. Not transparent.
+type: border
+categories:
+  - floral
+  - botanical
+  - scrollwork
+subjects:
+  - flower
+  - bud
+  - leaf
+  - vine
+  - rule
+colors:
+  - brown
+  - cream
+  - tan
+  - green
+  - beige
+facing: none
+composition: repeat-tile
+
+# structural: how it is organised and related
+group: tall-floral-sheet
+render:
+  image: {}
+  tile:
+    axis: y
+  frame:
+    corner: corner
+    slice: 23.36
+components:
+  corner:
+    master: corner.png
+    description: Mitred top-left corner in the same palette, the centre vine and both bud bands turning the angle, its right and bottom edges matching the tile's ends.
+related:
+  - { asset: supplied-sheets/russet-opposed-flowers-and-sage-leaves, role: variant }
+  - { asset: supplied-sheets/sage-leaf-and-russet-bud-vine, role: variant }
+usage_notes:
+  - Repeats along its height; the build's rotated ladder gives the horizontal use.
+  - The centre band alone is russet-opposed-flowers-and-sage-leaves and the side band alone is sage-leaf-and-russet-bud-vine, for a narrower border in the same style.
+  - The frame atlas composes one repeat with the corner component; use it with border-image and round fitting.
+display_width: [ 160, 324 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The grounds are opaque, so the piece cannot sit on another colour without recolouring.
+master: master.png
+provenance: null
+license: null

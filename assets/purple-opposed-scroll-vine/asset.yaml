@@ -1,0 +1,45 @@
+# descriptive: find it and understand it
+id: purple-opposed-scroll-vine
+title: Purple vine with opposed scroll loops
+description: One vertical repeat of a vine in dark purple on an opaque pale blue ground. A thin stem bends into a large loop that encloses two opposed inner curls, each tipped with pointed leaf blades and small split leaves, and the whole turns over at each half repeat so that successive loops face alternate ways. The top and bottom edges join seamlessly when stacked. Not transparent.
+type: border
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - vine
+  - scroll
+  - leaf
+  - stem
+colors:
+  - purple
+  - light-blue
+facing: none
+composition: repeat-tile
+
+# structural: how it is organised and related
+group: blue-sheet
+render:
+  image: {}
+  tile:
+    axis: y
+  frame:
+    corner: corner
+    slice: 27.4
+components:
+  corner:
+    master: corner.png
+    description: Mitred top-left corner in the same dark purple, a scroll loop turning the angle with a leaf tip at the vertex, its right and bottom edges matching the tile's ends.
+usage_notes:
+  - Repeats along its height; the build's rotated ladder gives the horizontal use.
+  - The frame atlas composes one repeat with the corner component; use it with border-image and round fitting.
+display_width: [ 30, 57 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The pale blue ground is opaque, so the piece cannot sit on another colour without recolouring.
+master: master.png
+provenance: null
+license: null

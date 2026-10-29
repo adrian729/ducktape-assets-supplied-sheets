@@ -1,0 +1,42 @@
+# descriptive: find it and understand it
+id: blue-staggered-leaf-scrolls
+title: Blue scroll border with small leaves
+description: One repeat of a vertical border in flat mid blue on an opaque pale blue ground. C-scrolls with dotted terminals are stacked in two staggered columns along a central stem, and each throws off small pointed leaves and a fan of serrated leaves so that the leaves of one column point into the gaps of the other. The top and bottom edges join when stacked, but the repeat is about as tall as it is wide. Not transparent.
+type: border
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - scroll
+  - leaf
+  - stem
+colors:
+  - blue
+  - light-blue
+facing: none
+composition: repeat-tile
+
+# structural: how it is organised and related
+group: blue-sheet
+render:
+  image: {}
+  frame:
+    corner: corner
+    slice: 33.18
+components:
+  corner:
+    master: corner.png
+    description: Mitred top-left corner in the same flat blue, the staggered scrolls turning the angle with a leaf fan at the vertex, its right and bottom edges matching the tile's ends.
+usage_notes:
+  - The repeat is about as long as it is thick, so it is not declared as a tile; repeat it with background-repeat along its height, or use the frame atlas.
+  - The frame atlas composes one repeat with the corner component; use it with border-image and round fitting.
+display_width: [ 40, 74 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The pale blue ground is opaque, so the piece cannot sit on another colour without recolouring.
+master: master.png
+provenance: null
+license: null

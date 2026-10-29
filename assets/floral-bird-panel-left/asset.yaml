@@ -1,0 +1,51 @@
+# descriptive: find it and understand it
+id: floral-bird-panel-left
+title: Gold panel of flowers and finches, first copy
+description: A tall narrow panel on a mottled gold ground inside a dark brown ruled border that ends in a cusped arch with a scroll finial and a small pink knob at both ends. From the top it holds a snail on a leaf, a red rose, a blue star-shaped flower, a brown butterfly, a purple pansy, a fly, a goldfinch facing right, a pink flower, a speckled butterfly, a strawberry with white blossoms, a red-breasted finch facing right, violets, a round leaf, a brown butterfly and a blue iris. The sheet outside the panel is transparent.
+type: divider
+categories:
+  - floral
+  - botanical
+  - animals
+subjects:
+  - bird
+  - butterfly
+  - snail
+  - insect
+  - rose
+  - pansy
+  - flower
+  - berry
+  - leaf
+colors:
+  - gold
+  - red
+  - blue
+  - green
+  - brown
+facing: right
+composition: single-ornament
+
+# structural: how it is organised and related
+group: five-painted-panels
+render:
+  image: {}
+related:
+  - { asset: supplied-sheets/floral-bird-panel-right, role: variant }
+  - { asset: supplied-sheets/butterfly-panel-red, role: companion }
+  - { asset: supplied-sheets/floral-bird-panel-blue, role: companion }
+  - { asset: supplied-sheets/spiral-ribbon-column, role: companion }
+usage_notes:
+  - Complete vertical panel with its end caps; keep it whole and upright, it does not repeat.
+  - The same design painted twice on the sheet; floral-bird-panel-right is the second copy, not a mirror image, and the birds face right in both. Flip one horizontally for a mirrored pair.
+  - One of five panels of the same height from one sheet; they stand side by side as page margins.
+display_width: [ 40, 81 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The panel's interior sits at about 95 percent alpha rather than fully opaque, so a dark ground shows faintly through it.
+master: master.png
+provenance: null
+license: null

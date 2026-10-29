@@ -1,0 +1,46 @@
+# descriptive: find it and understand it
+id: painted-sprawling-floral-panel
+title: Painted scrolling floral panel on yellow
+description: A broad horizontal painted panel on an opaque yellow ground with a thin red rule along the top and bottom edges. Tan scrolling stems with spiky serrated leaves sprawl across the whole width, carrying flowers of several kinds, a large pink and teal flower, a round red and teal rosette, small blue flowers with red centres, cream buds and olive leaves. The stems are cut at both ends and there is no repeat. Flat colour with fine brown contours; not transparent.
+type: divider
+categories:
+  - floral
+  - botanical
+  - scrollwork
+subjects:
+  - flower
+  - rosette
+  - leaf
+  - vine
+  - stem
+  - scroll
+  - rule
+colors:
+  - yellow
+  - tan
+  - red
+  - blue
+  - green
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: painted-sheet
+render:
+  image: {}
+related:
+  - { asset: supplied-sheets/painted-symmetric-leaf-and-flower-panel, role: companion }
+  - { asset: supplied-sheets/painted-three-band-floral-panel, role: companion }
+usage_notes:
+  - Complete panel; the rules at top and bottom are continuous end to end but the stems are cut at both ends, so it does not repeat.
+  - One of three panels of the same width cut from one sheet; they stack as bands of one wide border.
+display_width: [ 360, 722 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The yellow ground is opaque, so the piece cannot sit on another colour without recolouring.
+master: master.png
+provenance: null
+license: null
